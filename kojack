@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'kojack'
         required: true
-        default: 'Haruka'
+        default: 'kojack'
       agent_description:
         description: 'kojack'
         required: true
